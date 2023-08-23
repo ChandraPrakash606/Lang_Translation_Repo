@@ -1,6 +1,7 @@
 # Lang_Translation_Repo
 # actiavet virtual env "source langvenv/bin/acivate"
 # change directory "cd lang_translation"
+# pip install -r requirements.txt
 # run "python manage.py makemigrations"
 # run "python manage.py migrate"
 # run "python manage.py runserver"
