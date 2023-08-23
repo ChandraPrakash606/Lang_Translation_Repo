@@ -1,4 +1,5 @@
 # Lang_Translation_Repo
+# virtualenv langvenv
 # actiavet virtual env "source langvenv/bin/acivate"
 # change directory "cd lang_translation"
 # pip install -r requirements.txt
